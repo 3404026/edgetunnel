@@ -115,6 +115,11 @@
 
 ---
 
+绑定了KV空间，为什么还报错？？？
+<img width="1025" height="215" alt="image" src="https://github.com/user-attachments/assets/f516ee62-0631-4384-a9fd-c431363bc25b" />
+
+<img width="588" height="537" alt="image" src="https://github.com/user-attachments/assets/fac172b2-d730-4168-9c23-2c3a192548d6" />
+
 ## 🔑 环境变量说明
 
 | 变量名 | 必填 | 示例 | 详细备注 |
